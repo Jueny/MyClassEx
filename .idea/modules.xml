@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex10.iml" filepath="$PROJECT_DIR$/Ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex10_1/ex10_1.iml" filepath="$PROJECT_DIR$/ex10_1/ex10_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex11_1/ex11_1.iml" filepath="$PROJECT_DIR$/ex11_1/ex11_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex11_2_2/ex11_2_2.iml" filepath="$PROJECT_DIR$/ex11_2_2/ex11_2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex11__t/ex11__t.iml" filepath="$PROJECT_DIR$/ex11__t/ex11__t.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex12_1/ex12_1.iml" filepath="$PROJECT_DIR$/ex12_1/ex12_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex1_2/ex1_2.iml" filepath="$PROJECT_DIR$/ex1_2/ex1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex8_2_1/ex8_2_1.iml" filepath="$PROJECT_DIR$/ex8_2_1/ex8_2_1.iml" />
+    </modules>
+  </component>
+</project>
